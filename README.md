@@ -1,2 +1,2 @@
 # Repository1
-Dan AUgust Oca Oca A
+Dan AUgust Oca
