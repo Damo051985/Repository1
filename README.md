@@ -1,3 +1,3 @@
 # Repository1
-Dan AUgust Oca Aram
+Dan AUgust Oca
 Zabrina Angela
