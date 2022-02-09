@@ -35,3 +35,5 @@ pageextension 50100 CustomerListExt extends "Customer List"
     end;
 
 }
+
+https://planetary-equinox-317127.postman.co/workspace/BC-API-for-LL~2310f2c4-9e47-46eb-a74e-d1f94be8881b/request/14067098-0c30a7b8-b8af-4a49-b7c4-a2ee26a2189a
